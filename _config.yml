@@ -25,9 +25,9 @@ author:
   avatar           : "lancer.png"
   name             : "Tengjixiang Teng"
   pronouns         : # example: "she/her"
-  bio              : "Fullstack AI Developer, dedicated to engineering architecture and R&D efficiency optimization, passionate about hardware DIY and computer networking, and certified as a CCIE."
+  bio              : "AI R&D"
   location         : "Beijing"
-  #employer         : "Red Brick University"
+  employer         : "Alibaba"
   uri              : # URL
   email            : "flowablex@gmail.com"
 
